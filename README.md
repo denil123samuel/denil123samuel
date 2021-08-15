@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @denil123samuel
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 💞️ I’m looking to collaborate with skilled people
+- 📫 you can reach me through instagram : _denil_samuel
 <!---
 denil123samuel/denil123samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-hi 
-welcome to mine profile
-myself Denil
+You can click the Preview link to take a look at you
