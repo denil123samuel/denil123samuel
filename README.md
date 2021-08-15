@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denil123samuel
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning as begginer
 - 💞️ I’m looking to collaborate with skilled people
 - 📫 you can reach me through instagram : _denil_samuel
 <!---
